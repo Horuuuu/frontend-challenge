@@ -1,0 +1,15 @@
+.resumemenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 0.5rem goldenrod;
+  border-radius: 8px;
+  margin: 1rem;
+}
+.imgmenu {
+  border-radius: 8px;
+}
+p {
+  font-size: 20px;
+}

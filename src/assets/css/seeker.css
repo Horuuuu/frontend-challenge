@@ -1,0 +1,20 @@
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+label {
+  margin-right: 13px;
+}
+.imgseeker {
+  width: 250px;
+  height: 100px;
+  border-radius: 5px;
+}
+.inputseeker {
+  height: 50px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: red;
+  margin-top: 25px;
+}
